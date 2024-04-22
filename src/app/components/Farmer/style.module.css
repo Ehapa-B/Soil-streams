@@ -135,7 +135,7 @@ h6 {
 
 @media (min-width: 1440px) {
     .image, .overlay {
-        height: 95vh;
+        height: 92vh;
         overflow: hidden;
     }
     .section-container {
